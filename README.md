@@ -22,4 +22,5 @@ Actor-Critic algorithm(AC,A2C,A3C) with tensorflow
     
 # Result
 CartPole-v0 with the gym environment
+
 ![game_test](https://github.com/demomagic/Actor-Critic/blob/master/img/game.png)
